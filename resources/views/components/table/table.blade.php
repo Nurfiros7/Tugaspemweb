@@ -10,9 +10,9 @@
     <tbody>
         <tr>
             <th scope="row">1</th>
-            <td>Haziq</td>
-            <td>3337240047</td>
-            <td>m.haziq.f.9f@gmail.com</td>
+            <td>Yafi</td>
+            <td>3337240001</td>
+            <td>312yafi2005@gmail.com</td>
         </tr>
         <tr>
             <th scope="row">2</th>
